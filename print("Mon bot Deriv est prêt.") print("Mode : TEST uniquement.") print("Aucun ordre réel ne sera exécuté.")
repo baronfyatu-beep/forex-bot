@@ -1,0 +1,3 @@
+print("Mon bot Deriv est prêt.")
+print("Mode : TEST uniquement.")
+print("Aucun ordre réel ne sera exécuté.")
